@@ -10,7 +10,7 @@ Am	 *02210
 
 
 C                  F                 C                 F
- 
+
 E---------0-------|---------1---0---|---------0-------|-----------------|
 B-1---3-------3---|-1---3-----------|-1---3-------3---|-1---1---1---1---|
 G---0---0---0---0-|---0---0---0---0-|---0---0---0---0-|---2---2---2---2-|
@@ -18,127 +18,80 @@ D-----------------|-----------------|-----------------|-----------------|
 A-----------------|-----------------|-3---------------|-----------------|
 E-3---------------|-1---------------|-----------------|-1---------------|
 
- 
+
 verse1:
 
 C
-I don¡¯t know you
- 
+I don't know you
 F
 But I want you
- 
 C                  F
 All the more for that
- 
 C
 Words fall through me
- 
 F
 And always fool me
- 
 C                F
-And I can¡¯t react
- 
+And I can't react
 Am             G      Fmaj7
 And games that never amount
- 
-    G                 Am 
-To more than they¡¯re meant
- 
-      G          Fmaj7       
+    G                 Am
+To more than they're meant
+      G          Fmaj7
 Will play themselves out
- 
- 
 (start to Weep) Fmaj7
 
 chorus:
-
 C                  Fmaj7                Am
 Take this sinking boat and point it home
- 
                  F
-We¡¯ve still got time
- 
+We've still got time
 C                   Fmaj7               Am
 Raise your hopeful voice you have a choice
- 
                 F
-You¡¯ve made it now
-
-
+You've made it now
 F
 
-
-
-verse2: 
-
+verse2:
 C               F
 Falling slowly, eyes that know me
-
 C                  F
-And I can¡¯t go back
-
+And I can't go back
 C                    F
 Moods that take me and erase me
-
 C                    F
-And I¡¯m painted black
-
+And I'm painted black
 Am         G       Fmaj7
 You have suffered enough
-
-    G                Am 
+    G                Am
 And warred with yourself
-
       G             Fmaj7        Fmaj7
-It¡¯s time that you won
-
+It's time that you won
 
 chorus2:
-
 C                  Fmaj7                Am
 Take this sinking boat and point it home
-
                   F
-We¡¯ve still got time
-
+We've still got time
 C                  Fmaj7                Am
 Raise your hopeful voice you had a choice
-
-                F               
-You¡¯ve made it now
-
-
+                F
+You've made it now
 
 Bridge:Am   G  |  F   G  |  Am   F  |  F  |   F
 
-
-
 chorus again:
-
 Take this sinking boat and point it home
-
-We¡¯ve still got time
-
+We've still got time
 Raise your hopeful voice you had a choice
-
-You¡¯ve made it now
-
+You've made it now
 Take this sinking boat and point it home
-
-We¡¯ve still got time
-
+We've still got time
 Raise your hopeful voice you had a choice
-
-You¡¯ve made it now
-
+You've made it now
 Falling slowly sing your melody
-
-I¡¯ll sing along
-
+I'll sing along
 
 C   F   Am   F...(lots lots of "F"s)
-
 (slow down and divide the chords as the intro)
 C   F   C    F
-
