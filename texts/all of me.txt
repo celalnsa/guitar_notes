@@ -1,5 +1,13 @@
 Capo 1 Standard tuning
 
+Cmaj7  : 032000
+Cadd9  : 032030
+Amadd9 : 032200
+Emadd9 : 022002
+Dadd9  : 254252
+Am/C   : 032210
+C/D    : 000010
+
 [Verse 1] (Em, C, G, D)
 Em           Cmaj7                  G
 What would I do without your smart mouth
@@ -11,16 +19,16 @@ Got my head spinning, no kidding, I can't pin you down
 Whats going on in that beautiful mind
                D             Em
 Im on your magical mystery ride
-       Cadd9             G                     D         Amadd9
-And Im so   dizzy, don't know what hit me, but I'll be alright
+       Cadd9             G                   D         Amadd9
+And Im so dizzy, don't know what hit me, but I'll be alright
 
 [Pre-Chorus] (Am, Em, D)
 Am                G
 My head's under water
     D             Amadd9
 But Im breathing fine
-                G             D
-Youre crazy and Im out of my mind
+                 G             D
+You're crazy and I'm out of my mind
 
 [Chorus] (G, Em, Am, D)
        G
