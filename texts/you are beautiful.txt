@@ -1,0 +1,16 @@
+
+Standard tuning
+G     : 320033
+G/F#  : 200033
+Em7   : 022033
+Cadd9 : 032033
+D/F#  : 200233
+
+trick tuning: ----DG
+
+-0-
+[G   G/F#    Em7 Cadd9] * 2
+
+-1-
+G   G/F#    Em7 Cadd9
+my life is 

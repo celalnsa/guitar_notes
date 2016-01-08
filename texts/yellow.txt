@@ -4,8 +4,10 @@ Asus4 : 002230
 Esus4 : 022200
 Dsus2 : 000230
 
+-0-
 A   Asus4   A   Asus4   E   Esus4   D   Dsus2   A   Asus4
 
+-1-
   A                  A                        E
 1 Look at the stars,  Look how they shine for you,
 2 I came along,       I wrote a song for      you,
@@ -28,14 +30,12 @@ A   Asus4
 4  You know,  you know    I love you so,
 
   D    Dsus2
-4      You know I love you so.
+4      You know I love you so.  -> -0-
 
   D             (#Fm         E)[3,5]     D
 7 And you know, For you I’d bleed myself dry,
-  Dsus2                    A
+  Dsus2                    A    Asus4   E   Esus4   D   Dsus2
 7 For you I’d bleed myself dry.
-
-Asus4   E   Esus4   D   Dsus2
 
   A Asus4    A     Asus4                   E
 8       It’s true, Look how they shine for you,
