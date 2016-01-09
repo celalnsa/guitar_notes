@@ -1,16 +1,61 @@
 
-Standard tuning
-G     : 320033
-G/F#  : 200033
-Em7   : 022033
-Cadd9 : 032033
-D/F#  : 200233
-
-trick tuning: ----DG
+Capo = 3 Standard tuning
+C     : 032013
+G     : 320003
+Am7   : 002213
+F9    : 003213
 
 -0-
-[G   G/F#    Em7 Cadd9] * 2
+[C   G  Am7 F9] * 2
 
 -1-
-G   G/F#    Em7 Cadd9
-my life is 
+  C   G  Am7 F9
+1 My life is brilliant.
+             C
+1            My life is brilliant.
+2 She smiled at me on the subway.
+          G
+1         My love is pure.
+2 She was with another man.
+        Am7
+1       I saw an angel.
+2 But I won't lose no sleep on that,
+         F9
+1        Of that I'm sure.
+2 'Cause I've got a plan.
+
+   (F9          G)
+356 You're beautiful.
+    C
+356 You're beautiful.
+   (F9          G)
+356 You're beautiful, it's true.
+        (F9           G)      ((C       G)    Am7)
+35 I saw your face          in a crowded place,
+            (F9   G)          ((C       G)         Am7) (Am7                 F9)                  (G  (C G))  Am7
+6 There must be an angel with a smile on her face,       When she thought up that I should be with you.
+   Am7           (F9             G)
+35          And I don't know what to do,
+6   But it's time to face    the truth,
+   Am7            (F9     G)        C
+35     'Cause I'll never be with you.
+6             I'll never be with you.
+
+G  Am7 F9
+               C
+4 Yeah, she caught my eye,
+        G
+4 As we walked on by.
+            Am7
+4 She could see from my face that I was,
+  F9
+4     F**king high,
+        C                     G
+4 And I don't think that I'll see her again,
+      Am7                               Am7
+4 But we shared a moment that will last till the end.
+
+  C   (F9  Am7)  (F9  Am7)  (F9  Am7)  (Dm7  G)
+5     lalalala    lalalala   lalalala
+
+I will never be with you.
